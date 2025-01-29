@@ -1,0 +1,1 @@
+This repository contains a simple assembly program demonstrating a division by zero error and its solution.  The `bug.asm` file shows the erroneous code, which attempts division without checking for a zero divisor. The `bugSolution.asm` file provides a corrected version that includes a check to prevent division by zero.
